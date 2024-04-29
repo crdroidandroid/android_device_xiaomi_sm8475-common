@@ -13,7 +13,8 @@
   },
   {
     "repository": "crdroidandroid/android_hardware_xiaomi",
-    "target_path": "hardware/xiaomi"
+    "target_path": "hardware/xiaomi",
+    "branch": "14.0-8475"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_xiaomi_sm8475-common",
